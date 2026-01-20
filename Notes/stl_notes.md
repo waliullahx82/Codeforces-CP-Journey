@@ -46,8 +46,10 @@ vector<int> v2(v1); // v2 = v1
 v.erase(v.begin()) // begin returns fist element
 v.erase(v.begin() + 2) // begin work as iterator
 v.end() -> point to after last address
+v.empty()
+auto it = upper_bound(v.begin(),v.end(), target) // O(log n)
 
-v.insert(pos, value); // pos = v.begin() + 1;
+insert(pos, value); // pos = v.begin() + 1;
 
 vector<int>::iterator it;
 for(it = v.begin(); it!=v.end(); it++){

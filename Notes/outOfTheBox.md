@@ -1,0 +1,1 @@
+# 1200 A_Cheap_Travel -> If buying more ticket cost less money then do not need to buy less ticket with more money.
