@@ -22,23 +22,7 @@ STL mainly has **4 components**:
 
 ## 📂 STL Containers
 
-# MOD
-```cpp
-1. for(i 0 to N)
-answer = answer * i;
-cout << answer % MOD;
 
--> for(i 0 to N)
-answer = (answer * i) % MOD;
-cout << answer;
-
-2. (A * B) % MOD;
--> ((A % MOD) * (B % MOD)) % MOD;
-
-3 . (a + b) % MOD -> a * b % MOD;
-
-
-```
 ### Vector
 ```cpp
 
