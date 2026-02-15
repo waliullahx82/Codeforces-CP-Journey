@@ -22,6 +22,8 @@ STL mainly has **4 components**:
 
 ## 📂 STL Containers
 
+#include <bits/stdc++.h>
+
 # MOD
 ```cpp
 1. for(i 0 to N)
